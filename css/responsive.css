@@ -1,0 +1,387 @@
+/* 
+  ##Device = Smartphones Mobiles (Galaxy-fold)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px){
+  
+            /* CSS  Start*/
+         .header .navbar-toggler .fa-bars{
+               color: #fff;        
+         }
+          .banner-text h1{
+               font-size: 20px;
+         }
+          .banner-text p{
+               margin-bottom: 20px;
+         }
+         .banner-text button{
+                padding: 7px 15px;
+         } 
+         .banner-form .card .card-header h1{
+                font-size: 18px;
+         }
+         .banner-form .card .card-body{
+                padding: 10px;
+         }
+         .card-footer input{
+                font-weight: 300;
+                padding: 8px 0px;
+         }
+         .left h5{
+               font-size: 18px;
+         } 
+         .left p{
+               font-size: 8px;
+               line-height: 18px;
+         }
+         .right .fa{
+              font-size: 18px;
+              margin: 0px 0px 0px 10px;
+         } 
+         .item-1 h3{
+              font-size: 22px;
+         }
+         .item-1 p{
+              font-size: 8px;
+              line-height: 18px;
+         }  
+         .feature-1 button {
+              padding: 6px 15px;
+         }
+         .inner-sub h5{
+              font-size: 20px;
+         }
+         .inner-sub span{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .inner-sub p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .feature{
+             padding: 40px 0px;
+         }
+         .feature .title h1{
+              font-size: 20px;
+         }
+         .title p{
+             font-size: 8px;
+             line-height: 18px;
+         }
+         .inner-feature h4 {
+              font-size: 18px;
+         }
+         .inner-feature p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .pricing{
+             padding: 60px 0px;
+         }
+         .pricing .title{
+              font-size: 18px;
+         }
+         .subtitle{
+              font-size: 8px;
+         }
+         .price-table .card-body h1 {
+              font-size: 40px;
+         }
+         .testimonial{
+              padding: 60px 0px;
+         }
+         .inner-axure h1{
+              font-size: 18px;
+         }
+         .inner-axure p{
+              font-size: 8px;
+              line-height: 18px;
+         } 
+         .inner-axure button {
+              padding: 7px 15px;
+         }
+         .contact{
+          padding: 40px 0px;
+         }
+         .contact .title{
+              font-size: 18px;
+         }
+         .sub button{
+              padding: 4px 18px;
+         }
+         .testimonial .title {
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 700;
+         }
+         .sub-list img{
+               width: 100%;
+         }
+         .standard img{
+               width: 100%;
+         }
+           
+           /* CSS  End/
+  
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px){
+  
+           /* CSS  Start*/
+
+         .header .navbar-toggler .fa-bars {
+               color: #fff;        
+         }
+          .banner-text h1{
+               font-size: 20px;
+         }
+          .banner-text p{
+               margin-bottom: 20px;
+         }
+          .banner-text button{
+                padding: 7px 15px;
+         } 
+          .banner-form .card .card-header h1{
+                font-size: 18px;
+         }
+          .banner-form .card .card-body{
+                padding: 10px;
+         }
+          .card-footer input{
+                font-weight: 300;
+                padding: 8px 0px;
+         }
+          .left h5{
+               font-size: 18px;
+         } 
+          .left p{
+               font-size: 8px;
+               line-height: 18px;
+         }
+          .right .fa{
+              font-size: 18px;
+              margin: 0px 0px 0px 30px;
+         } 
+          .item-1 h3{
+              font-size: 22px;
+         }
+          .item-1 p{
+              font-size: 8px;
+              line-height: 18px;
+         }  
+          .feature-1 button {
+              padding: 6px 15px;
+         }
+          .inner-sub h5{
+              font-size: 20px;
+         }
+          .inner-sub span{
+              font-size: 8px;
+              line-height: 18px;
+         }
+          .inner-sub p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+          .feature{
+             padding: 40px 0px;
+         }
+          .feature .title h1{
+              font-size: 20px;
+         }
+          .title p{
+             font-size: 8px;
+             line-height: 18px;
+         }
+          .inner-feature h4 {
+              font-size: 18px;
+         }
+          .inner-feature p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+          .pricing{
+             padding: 60px 0px;
+         }
+          .pricing .title{
+              font-size: 18px;
+         }
+          .subtitle{
+              font-size: 8px;
+         }
+          .price-table .card-body h1 {
+              font-size: 40px;
+         }
+          .testimonial{
+              padding: 60px 0px;
+         }
+          .inner-axure h1{
+              font-size: 18px;
+         }
+          .inner-axure p{
+              font-size: 8px;
+              line-height: 18px;
+         } 
+          .inner-axure button {
+              padding: 7px 15px;
+         }
+          .contact .title{
+              font-size: 18px;
+         }
+          .sub button{
+              padding: 4px 18px;
+         }
+         .testimonial .title {
+            font-size: 22px;
+            line-height: 32px;
+            font-weight: 600;
+         }
+
+           /* CSS  End */
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px){
+  
+             /* CSS  Start*/
+        .header .navbar-toggler .fa-bars{
+               color: #fff;        
+         }
+         .banner-text h1{
+               font-size: 20px;
+         }
+         .banner-text p{
+               margin-bottom: 20px;
+         }
+         .banner-text button{
+                padding: 7px 15px;
+         } 
+         .banner-form .card .card-header h1{
+                font-size: 18px;
+         }
+         .banner-form .card .card-body{
+                padding: 10px;
+         }
+         .card-footer input{
+                font-weight: 300;
+                padding: 8px 0px;
+         }
+         .left h5{
+               font-size: 18px;
+         } 
+         .left p{
+               font-size: 8px;
+               line-height: 18px;
+         }
+         .right .fa{
+              font-size: 18px;
+              margin: 0px 0px 0px 10px;
+         } 
+         .item-1 h3{
+              font-size: 22px;
+         }
+         .item-1 p{
+              font-size: 8px;
+              line-height: 18px;
+         }  
+         .feature-1 button {
+              padding: 6px 15px;
+         }
+         .inner-sub h5{
+              font-size: 20px;
+         }
+         .inner-sub span{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .inner-sub p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .feature{
+             padding: 40px 0px;
+         }
+         .feature .title h1{
+              font-size: 20px;
+         }
+         .title p{
+             font-size: 8px;
+             line-height: 18px;
+         }
+         .inner-feature h4 {
+              font-size: 18px;
+         }
+         .inner-feature p{
+              font-size: 8px;
+              line-height: 18px;
+         }
+         .pricing{
+             padding: 60px 0px;
+         }
+         .pricing .title{
+              font-size: 18px;
+         }
+         .subtitle{
+              font-size: 8px;
+         }
+         .price-table .card-body h1 {
+              font-size: 40px;
+         }
+         .testimonial{
+              padding: 60px 0px;
+         }
+         .inner-axure h1{
+              font-size: 18px;
+         }
+         .inner-axure p{
+              font-size: 8px;
+              line-height: 18px;
+         } 
+         .inner-axure button {
+              padding: 7px 15px;
+         }
+         .contact .title{
+              font-size: 18px;
+         }
+         .sub button{
+              padding: 4px 18px;
+         }
+         .sub-list img{
+               width: 100%;
+         }
+         .standard img{
+               width: 100%;
+         }
+
+            /* CSS  End/
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+             /* CSS  Start*/
+
+        
+
+            /* CSS  End/
+  
+}
+
+
+
