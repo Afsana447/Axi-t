@@ -9,6 +9,13 @@
          .header .navbar-toggler .fa-bars{
                color: #fff;        
          }
+        .header .navbar-toggler:focus{
+               box-shadow: 1px 1px 1px #506a85;
+         }
+        .header .navbar-nav .nav-item .nav-link{
+               margin: 0px;
+               font-size: 10px;  
+         } 
           .banner-text h1{
                font-size: 20px;
          }
@@ -136,9 +143,15 @@
 @media (min-width: 320px) and (max-width: 480px){
   
            /* CSS  Start*/
-
-         .header .navbar-toggler .fa-bars {
+         .header .navbar-toggler .fa-bars{
                color: #fff;        
+         }
+        .header .navbar-toggler:focus{
+               box-shadow: 1px 1px 1px #506a85;
+         }
+        .header .navbar-nav .nav-item .nav-link{
+               margin: 0px;
+               font-size: 10px;  
          }
           .banner-text h1{
                font-size: 20px;
@@ -256,8 +269,15 @@
 @media (min-width: 481px) and (max-width: 767px){
   
              /* CSS  Start*/
-        .header .navbar-toggler .fa-bars{
+         .header .navbar-toggler .fa-bars{
                color: #fff;        
+         }
+        .header .navbar-toggler:focus{
+               box-shadow: 1px 1px 1px #506a85;
+         }
+        .header .navbar-nav .nav-item .nav-link{
+               margin: 0px;
+               font-size: 10px;  
          }
          .banner-text h1{
                font-size: 20px;
@@ -376,9 +396,17 @@
 @media (min-width: 768px) and (max-width: 1024px) {
   
              /* CSS  Start*/
-
+             .header .navbar-toggler .fa-bars{
+               color: #fff;        
+             }
+            .header .navbar-toggler:focus{
+                   box-shadow: 1px 1px 1px #506a85;
+             }
+            .header .navbar-nav .nav-item .nav-link{
+                   margin: 0px;
+                   font-size: 10px;  
+            }
         
-
             /* CSS  End/
   
 }
